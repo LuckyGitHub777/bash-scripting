@@ -1,2 +1,2 @@
 # bash-scripts
-Snippets of bash code
+Snippets of bash scripts
